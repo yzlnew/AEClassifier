@@ -1,0 +1,4 @@
+matplotlib==2.0.2
+speechpy==2.1
+numpy==1.13.1
+scikit_learn==0.19.1
